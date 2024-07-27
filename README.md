@@ -1,33 +1,21 @@
 # DSA-Problem-List
 Repo consists the list of all DSA questions that I have practiced.
 
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th,td {
-            border: 2px solid ;
-            padding: 8px;
-            text-align: left;
-        }
-        tr {
-            border: 2px solid ;
-        }
-    </style>
-
-<table>
+<table style="width: 100%; border-collapse: collapse;">
     <thead>
-        <th>Problem Name</th>
-        <th>Solution</th>
+        <tr>
+            <th style="border: 2px solid; padding: 8px; text-align: left;">Problem Name</th>
+            <th style="border: 2px solid; padding: 8px; text-align: left;">Solution</th>
+        </tr>
     </thead>
     <tbody>
-    <tr>
-    <td>1. Two Sum</td>
-    <td><a href="https://github.com/KC1064/DSA-Problem-List/blob/main/Two%20Integer%20Sum.md">Solution</a></td>
-    </tr>
-    <tr>
-    <td>2. Top K frequent Elements</td>
-    <td><a href="./Top K frequent Elements.md">Solution</a></td>
-    </tr>
+        <tr style="border: 2px solid;">
+            <td style="border: 2px solid; padding: 8px;">1. Two Sum</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="https://github.com/KC1064/DSA-Problem-List/blob/main/Two%20Integer%20Sum.md">Solution</a></td>
+        </tr>
+        <tr style="border: 2px solid;">
+            <td style="border: 2px solid; padding: 8px;">2. Top K frequent Elements</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Top%20K%20frequent%20Elements.md">Solution</a></td>
+        </tr>
+    </tbody>
 </table>
