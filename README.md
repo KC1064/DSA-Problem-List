@@ -31,5 +31,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Two Sum II-Input Array Is Sorted</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Two Sum II Input Array Is Sorted.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">5.</td>
+            <td style="border: 2px solid; padding: 8px;">Longest Consecutive Sequence</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Longest Consecutive Sequence.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
