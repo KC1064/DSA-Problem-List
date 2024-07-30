@@ -35,6 +35,16 @@ Repo consists the list of all DSA questions that I have practiced.
         <td style="border: 2px solid; padding: 8px;">5.</td>
             <td style="border: 2px solid; padding: 8px;">Longest Consecutive Sequence</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Longest Consecutive Sequence.md">Solution</a></td>
+            <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">6.</td>
+            <td style="border: 2px solid; padding: 8px;">Container With Most Water</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Container With Most Water.md">Solution</a></td>
+        </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">7.</td>
+            <td style="border: 2px solid; padding: 8px;">Product Of Array Exccept Itself</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Product of Array Except Itself.md">Solution</a></td>
+        </tr>
         </tr>
     </tbody>
 </table>
