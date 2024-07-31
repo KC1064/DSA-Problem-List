@@ -45,6 +45,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Product Of Array Exccept Itself</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Product of Array Except Itself.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">8.</td>
+            <td style="border: 2px solid; padding: 8px;">Three Sum</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Three Sum.md">Solution</a></td>
         </tr>
     </tbody>
 </table>
