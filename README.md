@@ -50,5 +50,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Three Sum</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Three Sum.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">9.</td>
+            <td style="border: 2px solid; padding: 8px;">Contains Duplicates</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Contains Duplicates.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
