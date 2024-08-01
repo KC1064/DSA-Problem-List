@@ -55,5 +55,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Contains Duplicates</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Contains Duplicates.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">10.</td>
+            <td style="border: 2px solid; padding: 8px;">Trapping Rain Water</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Trapping Rain Water.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
