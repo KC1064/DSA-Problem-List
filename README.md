@@ -60,5 +60,15 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Trapping Rain Water</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Trapping Rain Water.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">11.</td>
+            <td style="border: 2px solid; padding: 8px;">Longest Substring Without Duplicate Characters</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Longest Substring Without Repeating Characters.md">Solution</a></td>
+        </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">12.</td>
+            <td style="border: 2px solid; padding: 8px;">Best Time To Buy and Sell Stocks</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Best Time To Buy and Sell Stocks.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
