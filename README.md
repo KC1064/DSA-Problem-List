@@ -70,5 +70,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Best Time To Buy and Sell Stocks</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Best Time To Buy and Sell Stocks.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">13.</td>
+            <td style="border: 2px solid; padding: 8px;">Permutation in Strings</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Permutation in String.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
