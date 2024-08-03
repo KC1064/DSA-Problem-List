@@ -75,5 +75,15 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Permutation in Strings</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Permutation in String.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">14.</td>
+            <td style="border: 2px solid; padding: 8px;">Valid Parenthesis</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Valid Parenthesis.md">Solution</a></td>
+        </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">15.</td>
+            <td style="border: 2px solid; padding: 8px;">Make Two Arrays Equal By Reversing Substring</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Make Two Arrays Equal By Reversing Substring">Solution</a></td>
+        </tr>
     </tbody>
 </table>
