@@ -90,5 +90,15 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Kth Distinct String in Array</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Kth Distinct String in Array.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">17.</td>
+            <td style="border: 2px solid; padding: 8px;">Minimum Window Substring</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Minimum Window Substring.md">Solution</a></td>
+        </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">18.</td>
+            <td style="border: 2px solid; padding: 8px;">Min Stack</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Min Stack.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
