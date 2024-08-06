@@ -85,5 +85,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Make Two Arrays Equal By Reversing Substring</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Make Two Arrays Equal By Reversing Substring">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">16.</td>
+            <td style="border: 2px solid; padding: 8px;">Kth Distinct String in Array</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Kth Distinct String in Array.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
