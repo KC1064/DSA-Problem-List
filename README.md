@@ -100,5 +100,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Min Stack</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Min Stack.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">19.</td>
+            <td style="border: 2px solid; padding: 8px;">Evaluate Reverse Polish Notation</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Evaluate Reverse Polish Notion.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
