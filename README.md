@@ -105,5 +105,10 @@ Repo consists the list of all DSA questions that I have practiced.
             <td style="border: 2px solid; padding: 8px;">Evaluate Reverse Polish Notation</td>
             <td style="border: 2px solid; padding: 8px;"><a href="./Evaluate Reverse Polish Notion.md">Solution</a></td>
         </tr>
+        <tr style="border: 2px solid;">
+        <td style="border: 2px solid; padding: 8px;">20.</td>
+            <td style="border: 2px solid; padding: 8px;">Daily Temperature</td>
+            <td style="border: 2px solid; padding: 8px;"><a href="./Daily Temperature.md">Solution</a></td>
+        </tr>
     </tbody>
 </table>
